@@ -10,6 +10,8 @@ vikingmute, [Airbnb JavaScript Style Guide](https://github.com/vikingmute/javasc
 
 dainiel, [上一年十大CSS文章 (2017版)](http://www.zcfy.cc/article/css-top-10-articles-for-the-past-year-v-2017-mybridge-for-professionals-2391.html)
 
+AllThingsSmitty, [css-protips](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+
 ---
 
 赵达, [Webpack 中文指南](http://zhaoda.net/webpack-handbook/index.html)
