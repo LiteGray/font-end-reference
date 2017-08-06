@@ -16,7 +16,7 @@ AllThingsSmitty, [css-protips](https://github.com/AllThingsSmitty/css-protips/tr
 
 赵达, [Webpack 中文指南](http://zhaoda.net/webpack-handbook/index.html)
 
-ikingmute, [webpack-for-fools](https://github.com/vikingmute/webpack-for-fools)
+vikingmute, [webpack-for-fools](https://github.com/vikingmute/webpack-for-fools)
 
 ruanyf, [webpack-demos](https://github.com/ruanyf/webpack-demos)
 
