@@ -24,7 +24,5 @@ ruanyf, [webpack-demos](https://github.com/ruanyf/webpack-demos)
 
 Nero0, [Webpack入门指南： 入口，输出，加载器和插件 | CSS-Tricks](http://www.zcfy.cc/article/introduction-to-webpack-entry-output-loaders-and-plugins-css-tricks-3347.html)
 
-为之漫笔, [Webpack最详解](http://www.zcfy.cc/article/a-detailed-introduction-to-webpack-ndash-smashing-magazine-2974.html)
-
 lcxfs1991, [教你如何读webpack2中文文档](https://github.com/lcxfs1991/blog/issues/17)
 
