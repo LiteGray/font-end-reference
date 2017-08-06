@@ -4,6 +4,8 @@
 
 miaoyu, [2017 JS开发指南](http://www.zcfy.cc/article/a-map-to-modern-javascript-development-2017-hacker-noon-3696.html)
 
+vikingmute, [Airbnb JavaScript Style Guide](https://github.com/vikingmute/javascript)
+
 ---
 
 dainiel, [上一年十大CSS文章 (2017版)](http://www.zcfy.cc/article/css-top-10-articles-for-the-past-year-v-2017-mybridge-for-professionals-2391.html)
