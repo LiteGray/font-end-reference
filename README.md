@@ -2,15 +2,21 @@
 
 ---
 
+dainiel, [上一年十大CSS文章 (2017版)](http://www.zcfy.cc/article/css-top-10-articles-for-the-past-year-v-2017-mybridge-for-professionals-2391.html)
+
+AllThingsSmitty, [css-protips](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+
+---
+
 miaoyu, [2017 JS开发指南](http://www.zcfy.cc/article/a-map-to-modern-javascript-development-2017-hacker-noon-3696.html)
 
 vikingmute, [Airbnb JavaScript Style Guide](https://github.com/vikingmute/javascript)
 
 ---
 
-dainiel, [上一年十大CSS文章 (2017版)](http://www.zcfy.cc/article/css-top-10-articles-for-the-past-year-v-2017-mybridge-for-professionals-2391.html)
+TAT.李强, [React虚拟DOM浅析](http://www.alloyteam.com/2015/10/react-virtual-analysis-of-the-dom/)
 
-AllThingsSmitty, [css-protips](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+左明, [深刻理解 React (一) ：JSX 和虚拟DOM](https://www.qcloud.com/community/article/164816001481011867)
 
 ---
 
