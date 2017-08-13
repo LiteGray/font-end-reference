@@ -10,7 +10,9 @@ AllThingsSmitty, [css-protips](https://github.com/AllThingsSmitty/css-protips/tr
 
 miaoyu, [2017 JS开发指南](http://www.zcfy.cc/article/a-map-to-modern-javascript-development-2017-hacker-noon-3696.html)
 
-vikingmute, [Airbnb JavaScript Style Guide](https://github.com/vikingmute/javascript)
+yuche, [Airbnb JavaScript Style Guide](https://github.com/yuche/javascript)
+
+JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript/tree/master/react)
 
 ---
 
@@ -41,3 +43,7 @@ ruanyf, [webpack-demos](https://github.com/ruanyf/webpack-demos)
 Nero0, [Webpack入门指南： 入口，输出，加载器和插件 | CSS-Tricks](http://www.zcfy.cc/article/introduction-to-webpack-entry-output-loaders-and-plugins-css-tricks-3347.html)
 
 lcxfs1991, [教你如何读webpack2中文文档](https://github.com/lcxfs1991/blog/issues/17)
+
+---
+
+myvin, [JavaScript 疲劳终极指南：我们行业的真相](http://zcfy.cc/article/3914)
