@@ -18,17 +18,13 @@ JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript
 
 ---
 
-大熊, [H5玩法知多少](https://isux.tencent.com/h5-play-ways.html)
-
----
-
 TAT.李强, [React虚拟DOM浅析](http://www.alloyteam.com/2015/10/react-virtual-analysis-of-the-dom/)
 
 左明, [深刻理解 React (一) ：JSX 和虚拟DOM](https://www.qcloud.com/community/article/164816001481011867)
 
 ---
 
- Manuel Kiessling, [Node入门](https://www.nodebeginner.org/index-zh-cn.html)
+大熊, [H5玩法知多少](https://isux.tencent.com/h5-play-ways.html)
 
 ---
 
@@ -47,8 +43,6 @@ Scott Chacon... [Pro Git](https://git-scm.com/book/zh/v2)
 赵达, [Webpack 中文指南](http://zhaoda.net/webpack-handbook/index.html)
 
 vikingmute, [webpack-for-fools](https://github.com/vikingmute/webpack-for-fools/blob/master/README.md)
-
-ruanyf, [webpack-demos](https://github.com/ruanyf/webpack-demos/blob/master/README.md)
 
 Nero0, [Webpack入门指南： 入口，输出，加载器和插件 | CSS-Tricks](http://www.zcfy.cc/article/introduction-to-webpack-entry-output-loaders-and-plugins-css-tricks-3347.html)
 
