@@ -18,6 +18,8 @@ yuche, [Airbnb JavaScript Style Guide](https://github.com/yuche/javascript/blob/
 
 JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript/blob/master/react/README.md)
 
+阮一峰, [编程风格](http://es6.ruanyifeng.com/#docs/style)
+
 ---
 
 TAT.李强, [React虚拟DOM浅析](http://www.alloyteam.com/2015/10/react-virtual-analysis-of-the-dom/)
