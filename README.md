@@ -22,6 +22,8 @@ JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript
 
 ---
 
+余博伦, [浅尝初试 React 技术栈](https://zhuanlan.zhihu.com/p/28241673)
+
 TAT.李强, [React虚拟DOM浅析](http://www.alloyteam.com/2015/10/react-virtual-analysis-of-the-dom/)
 
 左明, [深刻理解 React (一) ：JSX 和虚拟DOM](https://www.qcloud.com/community/article/164816001481011867)
