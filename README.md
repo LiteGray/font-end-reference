@@ -18,8 +18,6 @@ yuche, [Airbnb JavaScript Style Guide](https://github.com/yuche/javascript/blob/
 
 JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript/blob/master/react/README.md)
 
-阮一峰, [编程风格](http://es6.ruanyifeng.com/#docs/style)
-
 ---
 
 余博伦, [浅尝初试 React 技术栈](https://zhuanlan.zhihu.com/p/28241673)
@@ -59,3 +57,7 @@ lcxfs1991, [教你如何读webpack2中文文档](https://github.com/lcxfs1991/bl
 老刘, [你必须理解的计算机核心概念](https://mp.weixin.qq.com/s/XmHhlZzpYbJWW_m5NMPqEw)
 
 myvin, [JavaScript 疲劳终极指南：我们行业的真相](http://zcfy.cc/article/3914)
+
+---
+
+[JSTips](http://www.jstips.co/zh_CN/)
