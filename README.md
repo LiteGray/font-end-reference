@@ -2,6 +2,8 @@
 
 ---
 
+amfe, [使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
+
 Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http://www.zcfy.cc/article/inside-a-super-fast-css-engine-quantum-css-aka-stylo-x2605-mozilla-hacks-8211-the-web-developer-blog-4041.html?t=new)
 
 ingglelaoo, [利用视口单位实现适配布局](https://aotu.io/notes/2017/04/28/2017-4-28-CSS-viewport-units/)
