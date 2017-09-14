@@ -14,6 +14,10 @@ AllThingsSmitty, [css-protips](https://github.com/AllThingsSmitty/css-protips/bl
 
 ---
 
+MDN, [闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
+
+---
+
 miaoyu, [2017 JS开发指南](http://www.zcfy.cc/article/a-map-to-modern-javascript-development-2017-hacker-noon-3696.html)
 
 yuche, [Airbnb JavaScript Style Guide](https://github.com/yuche/javascript/blob/master/README.md)
