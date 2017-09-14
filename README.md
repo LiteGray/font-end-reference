@@ -66,6 +66,8 @@ myvin, [JavaScript 疲劳终极指南：我们行业的真相](http://zcfy.cc/ar
 
 ---
 
+[html5jscss](http://www.html5jscss.com/groups)
+
 [共享笔记](https://gxnotes.com/tags/javascript)
 
 [JSTips](http://www.jstips.co/zh_CN/)
