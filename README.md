@@ -64,6 +64,8 @@ lcxfs1991, [教你如何读webpack2中文文档](https://github.com/lcxfs1991/bl
 
 ---
 
+龙骑将杨影枫, [Angular vs React：谁更适合前端开发](https://github.com/xitu/gold-miner/blob/master/TODO/angular-vs-react-which-is-better-for-web-development.md)
+
 老刘, [你必须理解的计算机核心概念](https://mp.weixin.qq.com/s/XmHhlZzpYbJWW_m5NMPqEw)
 
 myvin, [JavaScript 疲劳终极指南：我们行业的真相](http://zcfy.cc/article/3914)
