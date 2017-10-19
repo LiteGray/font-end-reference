@@ -72,6 +72,8 @@ myvin, [JavaScript 疲劳终极指南：我们行业的真相](http://zcfy.cc/ar
 
 ---
 
+JingLiii, [前端性能优化总结](http://www.cnblogs.com/zhangrunhao/p/7682557.html)
+
 Yeaseon, [2017前端面试题及答案总结](https://yeaseonzhang.github.io/2017/09/17/2017前端面试题及答案总结/#more)
 
 ---
