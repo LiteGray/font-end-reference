@@ -54,6 +54,8 @@ Scott Chacon... [Pro Git](https://git-scm.com/book/zh/v2)
 
 ---
 
+陈三, [webpack 教程](https://blog.zfanw.com/webpack-tutorial/)
+
 赵达, [Webpack 中文指南](http://zhaoda.net/webpack-handbook/index.html)
 
 vikingmute, [webpack-for-fools](https://github.com/vikingmute/webpack-for-fools/blob/master/README.md)
@@ -64,9 +66,9 @@ lcxfs1991, [教你如何读webpack2中文文档](https://github.com/lcxfs1991/bl
 
 ---
 
-龙骑将杨影枫, [Angular vs React：谁更适合前端开发](https://github.com/xitu/gold-miner/blob/master/TODO/angular-vs-react-which-is-better-for-web-development.md)
+也而的博客, [科学上网的终极姿势:在 Vultr VPS 上搭建 Shadowsocks](https://zoomyale.com/2016/vultr_and_ss)
 
-老刘, [你必须理解的计算机核心概念](https://mp.weixin.qq.com/s/XmHhlZzpYbJWW_m5NMPqEw)
+龙骑将杨影枫, [Angular vs React：谁更适合前端开发](https://github.com/xitu/gold-miner/blob/master/TODO/angular-vs-react-which-is-better-for-web-development.md)
 
 myvin, [JavaScript 疲劳终极指南：我们行业的真相](http://zcfy.cc/article/3914)
 
@@ -76,10 +78,8 @@ JingLiii, [前端性能优化总结](http://www.cnblogs.com/zhangrunhao/p/768255
 
 Yeaseon, [2017前端面试题及答案总结](https://yeaseonzhang.github.io/2017/09/17/2017前端面试题及答案总结/#more)
 
+老刘, [你必须理解的计算机核心概念](https://mp.weixin.qq.com/s/XmHhlZzpYbJWW_m5NMPqEw)
+
 ---
 
-[html5jscss](http://www.html5jscss.com/groups)
-
-[共享笔记](https://gxnotes.com/tags/javascript)
-
-[JSTips](http://www.jstips.co/zh_CN/)
+[也而的博客](https://zoomyale.com/archive)
