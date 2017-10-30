@@ -30,6 +30,8 @@ JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript
 
 ---
 
+linjinhe, [React组件生命周期小结](http://www.jianshu.com/p/4784216b8194)
+
 余博伦, [浅尝初试 React 技术栈](https://zhuanlan.zhihu.com/p/28241673)
 
 TAT.李强, [React虚拟DOM浅析](http://www.alloyteam.com/2015/10/react-virtual-analysis-of-the-dom/)
