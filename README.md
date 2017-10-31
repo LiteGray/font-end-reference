@@ -78,6 +78,10 @@ myvin, [JavaScript 疲劳终极指南：我们行业的真相](http://zcfy.cc/ar
 
 ---
 
+Shelley Lee, [CSS 布局十八般武艺都在这里了](https://zhuanlan.zhihu.com/p/25565751)
+
+烈风裘, [浏览器兼容性问题及解决方案(JS部分)](http://www.jianshu.com/p/8cd605d14e19)
+
 JingLiii, [前端性能优化总结](http://www.cnblogs.com/zhangrunhao/p/7682557.html)
 
 Yeaseon, [2017前端面试题及答案总结](https://yeaseonzhang.github.io/2017/09/17/2017前端面试题及答案总结/#more)
