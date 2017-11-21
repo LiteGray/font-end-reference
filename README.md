@@ -2,6 +2,8 @@
 
 ---
 
+葡萄城控件, [JavaScript 开发人员需要知道的简写技巧](https://my.oschina.net/powertoolsteam/blog/1555271)
+
 miaoyu, [2017 JS开发指南](http://www.zcfy.cc/article/a-map-to-modern-javascript-development-2017-hacker-noon-3696.html)
 
 yuche, [Airbnb JavaScript Style Guide](https://github.com/yuche/javascript/blob/master/README.md)
@@ -9,6 +11,8 @@ yuche, [Airbnb JavaScript Style Guide](https://github.com/yuche/javascript/blob/
 JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript/blob/master/react/README.md)
 
 ---
+
+Doraemonls, [增强网站无障碍功能的十条准则](http://mp.weixin.qq.com/s/AodYf_d9grxtw3xUBCo9KA)
 
 zwwill, [这么多前端优化点你都记得住吗](https://github.com/zwwill/blog/issues/1)
 
