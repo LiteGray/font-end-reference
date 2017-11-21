@@ -12,6 +12,8 @@ JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript
 
 ---
 
+余真帆, [JS常用设计模式总结](https://fanerge.github.io/2017/11/12/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%80%BB%E7%BB%93/)
+
 Doraemonls, [增强网站无障碍功能的十条准则](http://mp.weixin.qq.com/s/AodYf_d9grxtw3xUBCo9KA)
 
 zwwill, [这么多前端优化点你都记得住吗](https://github.com/zwwill/blog/issues/1)
