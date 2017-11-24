@@ -12,6 +12,8 @@ JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript
 
 ---
 
+微醺岁月, [面试分享：一年经验初探阿里巴巴前端社招](https://segmentfault.com/a/1190000010573644)
+
 codercao, [JavaScript是如何工作的:事件循环和异步编程的兴起](http://zcfy.cc/article/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-4506.html)
 
 余真帆, [JS常用设计模式总结](https://fanerge.github.io/2017/11/12/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%80%BB%E7%BB%93/)
