@@ -36,6 +36,8 @@ Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http
 
 ---
 
+Alon, [实例解析防抖动（Debouncing）和节流阀（Throttling）](https://jinlong.github.io/2016/04/24/Debouncing-and-Throttling-Explained-Through-Examples/)
+
 Devinnn, [前端移动端适配总结](https://segmentfault.com/a/1190000011586301)
 
 TECH, [表格边框你知多少](https://isux.tencent.com/articles/isux-table-border.html)
