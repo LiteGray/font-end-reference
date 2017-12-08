@@ -36,6 +36,14 @@ Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http
 
 ---
 
+Devinnn, [前端跨域解决方案](http://mp.weixin.qq.com/s/wZDVpd8oRo-AeBqAfufXWA)
+
+王宁博, [这一次带你彻底了解Cookie](http://mp.weixin.qq.com/s/oOGIuJCplPVW3BuIx9tNQg)
+
+冯鹏, [常见函数错误引发的思考](http://mp.weixin.qq.com/s/IgQ4bXHDqHsxmiOOzWNB2g)
+
+人人网FED, [前端本地文件操作与上传](https://juejin.im/post/5a193b4bf265da43052e528a)
+
 Alon, [实例解析防抖动（Debouncing）和节流阀（Throttling）](https://jinlong.github.io/2016/04/24/Debouncing-and-Throttling-Explained-Through-Examples/)
 
 Devinnn, [前端移动端适配总结](https://segmentfault.com/a/1190000011586301)
