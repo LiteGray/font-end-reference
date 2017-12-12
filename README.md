@@ -2,6 +2,8 @@
 
 ---
 
+Amos, [5个JavaScript编码规范，你喜欢哪一个？](http://mp.weixin.qq.com/s/YqEDqdd21enTsOmrCO52kA)
+
 葡萄城控件, [JavaScript 开发人员需要知道的简写技巧](https://my.oschina.net/powertoolsteam/blog/1555271)
 
 miaoyu, [2017 JS开发指南](http://www.zcfy.cc/article/a-map-to-modern-javascript-development-2017-hacker-noon-3696.html)
@@ -35,6 +37,8 @@ zzzaquarius, [How browsers work](http://blog.csdn.net/zzzaquarius/article/detail
 Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http://www.zcfy.cc/article/inside-a-super-fast-css-engine-quantum-css-aka-stylo-x2605-mozilla-hacks-8211-the-web-developer-blog-4041.html?t=new)
 
 ---
+
+岚中浮客, [再也不学AJAX了！（二）使用AJAX](https://segmentfault.com/a/1190000012237477)
 
 Devinnn, [前端跨域解决方案](http://mp.weixin.qq.com/s/wZDVpd8oRo-AeBqAfufXWA)
 
