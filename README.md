@@ -14,6 +14,8 @@ JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript
 
 ---
 
+紫云飞, [从未听说过的 JavaScript 早期特性](http://www.cnblogs.com/ziyunfei/p/7987254.html)
+
 微醺岁月, [面试分享：一年经验初探阿里巴巴前端社招](https://segmentfault.com/a/1190000010573644)
 
 codercao, [JavaScript是如何工作的:事件循环和异步编程的兴起](http://zcfy.cc/article/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-4506.html)
@@ -37,6 +39,14 @@ zzzaquarius, [How browsers work](http://blog.csdn.net/zzzaquarius/article/detail
 Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http://www.zcfy.cc/article/inside-a-super-fast-css-engine-quantum-css-aka-stylo-x2605-mozilla-hacks-8211-the-web-developer-blog-4041.html?t=new)
 
 ---
+
+大漠, [编写 SVG 的指南](https://www.w3cplus.com/svg/svg-pocket-guide.html)
+
+ChokCoco, [【前端性能】Web 动画帧率（FPS）计算](http://www.cnblogs.com/coco1s/p/8029582.html)
+
+ 北海北方, [【年底补课】HTTP缓存机制](http://mp.weixin.qq.com/s/HlJKEXk7q-f1n8va2RLZdA)
+
+SimonMa, [学习 Less——看这篇就够了](http://mp.weixin.qq.com/s/1CahvbtR4oPWMTRwIqIy0g)
 
 岚中浮客, [再也不学AJAX了！（二）使用AJAX](https://segmentfault.com/a/1190000012237477)
 
