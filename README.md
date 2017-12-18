@@ -14,6 +14,8 @@ JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript
 
 ---
 
+Chalarangelo, [精心收集的 48 个 JavaScript 代码片段](http://mp.weixin.qq.com/s/XpTdSYuECq3lV8BOCcJqFA)
+
 紫云飞, [从未听说过的 JavaScript 早期特性](http://www.cnblogs.com/ziyunfei/p/7987254.html)
 
 微醺岁月, [面试分享：一年经验初探阿里巴巴前端社招](https://segmentfault.com/a/1190000010573644)
