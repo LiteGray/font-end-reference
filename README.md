@@ -14,6 +14,10 @@ JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript
 
 ---
 
+守候, [JavaScript 打怪升级 -- 把业务逻辑当练习题做](https://mp.weixin.qq.com/s/nOzvWGlmmJZs49uSnM-S6w)
+
+doodlewind, [跨界！如何用语文知识改善代码可读性](https://mp.weixin.qq.com/s/nhNLVEzgvmyp76pmsKXOfA)
+
 Chalarangelo, [精心收集的 48 个 JavaScript 代码片段](http://mp.weixin.qq.com/s/XpTdSYuECq3lV8BOCcJqFA)
 
 紫云飞, [从未听说过的 JavaScript 早期特性](http://www.cnblogs.com/ziyunfei/p/7987254.html)
@@ -36,11 +40,15 @@ Yeaseon, [2017前端面试题及答案总结](https://yeaseonzhang.github.io/201
 
 ---
 
+ java思维导图, [思维导图 | HTTP 超文本协议，让 HTTP 不再难懂](https://mp.weixin.qq.com/s/3d3zhksViX2NTuIssiYGJg)
+
 zzzaquarius, [How browsers work](http://blog.csdn.net/zzzaquarius/article/details/6532299)
 
 Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http://www.zcfy.cc/article/inside-a-super-fast-css-engine-quantum-css-aka-stylo-x2605-mozilla-hacks-8211-the-web-developer-blog-4041.html?t=new)
 
 ---
+
+BrotherZhao, [<img>标签动态图片的进化：不是GIF，胜过 GIF](https://mp.weixin.qq.com/s/lbzK1tsRvLmRKYo7PPgrFQ)
 
 大漠, [编写 SVG 的指南](https://www.w3cplus.com/svg/svg-pocket-guide.html)
 
