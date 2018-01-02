@@ -2,6 +2,8 @@
 
 ---
 
+MDN, [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
 Amos, [5个JavaScript编码规范，你喜欢哪一个？](http://mp.weixin.qq.com/s/YqEDqdd21enTsOmrCO52kA)
 
 葡萄城控件, [JavaScript 开发人员需要知道的简写技巧](https://my.oschina.net/powertoolsteam/blog/1555271)
@@ -13,6 +15,10 @@ yuche, [Airbnb JavaScript Style Guide](https://github.com/yuche/javascript/blob/
 JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript/blob/master/react/README.md)
 
 ---
+
+jawil, [JavaScript 优雅的实现方式包含你可能不知道的知识点](https://github.com/jawil/blog/issues/30)
+
+zhansingsong, [常见的 JavaScript 内存泄露](https://mp.weixin.qq.com/s/RUjcQv0qeKUWxkLIBw4Iqg)
 
 守候, [JavaScript 打怪升级 -- 把业务逻辑当练习题做](https://mp.weixin.qq.com/s/nOzvWGlmmJZs49uSnM-S6w)
 
