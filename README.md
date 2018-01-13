@@ -20,6 +20,8 @@ JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript
 
 ---
 
+Neal_yang, [别慌，不就是跨域么!](https://mp.weixin.qq.com/s/A0Oi-fUrmboRPPeNEjG3aw)
+
 code4fun, [红黑树详细分析，看了都说好](https://mp.weixin.qq.com/s/pvfA9ozQD_N09EZd2Vbs8w)
 
 SangSir, [19 个常用的 JavaScript 简写方法](https://mp.weixin.qq.com/s/xpMVl_OJYPWGxbQTCe9cQg)
@@ -63,6 +65,8 @@ zzzaquarius, [How browsers work](http://blog.csdn.net/zzzaquarius/article/detail
 Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http://www.zcfy.cc/article/inside-a-super-fast-css-engine-quantum-css-aka-stylo-x2605-mozilla-hacks-8211-the-web-developer-blog-4041.html?t=new)
 
 ---
+
+yoyo, [极速适配 iPhone X 秘笈](https://mp.weixin.qq.com/s/VtMnzb9Hc-Ok7c20c_LVXQ)
 
 BrotherZhao, [<img>标签动态图片的进化：不是GIF，胜过 GIF](https://mp.weixin.qq.com/s/lbzK1tsRvLmRKYo7PPgrFQ)
 
