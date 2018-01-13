@@ -8,9 +8,9 @@
 
 MDN, [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-Amos, [5个JavaScript编码规范，你喜欢哪一个？](http://mp.weixin.qq.com/s/YqEDqdd21enTsOmrCO52kA)
+doodlewind, [跨界！如何用语文知识改善代码可读性](https://juejin.im/post/5a1fcd8f518825592c07e326)
 
-葡萄城控件, [JavaScript 开发人员需要知道的简写技巧](https://my.oschina.net/powertoolsteam/blog/1555271)
+Amos, [5个JavaScript编码规范，你喜欢哪一个？](http://mp.weixin.qq.com/s/YqEDqdd21enTsOmrCO52kA)
 
 miaoyu, [2017 JS开发指南](http://www.zcfy.cc/article/a-map-to-modern-javascript-development-2017-hacker-noon-3696.html)
 
@@ -31,10 +31,6 @@ SangSir, [19 个常用的 JavaScript 简写方法](https://mp.weixin.qq.com/s/xp
 jawil, [JavaScript 优雅的实现方式包含你可能不知道的知识点](https://github.com/jawil/blog/issues/30)
 
 zhansingsong, [常见的 JavaScript 内存泄露](https://mp.weixin.qq.com/s/RUjcQv0qeKUWxkLIBw4Iqg)
-
-守候, [JavaScript 打怪升级 -- 把业务逻辑当练习题做](https://mp.weixin.qq.com/s/nOzvWGlmmJZs49uSnM-S6w)
-
-doodlewind, [跨界！如何用语文知识改善代码可读性](https://mp.weixin.qq.com/s/nhNLVEzgvmyp76pmsKXOfA)
 
 Chalarangelo, [精心收集的 48 个 JavaScript 代码片段](http://mp.weixin.qq.com/s/XpTdSYuECq3lV8BOCcJqFA)
 
