@@ -2,6 +2,10 @@
 
 ---
 
+开源中国, [npm 发布 2017 JavaScript 框架报告（附：相关学习资料）](https://mp.weixin.qq.com/s/ZYxNyeXhncBZiwYvPwQ_AQ)
+
+边城, [前后端分离实践有感](https://mp.weixin.qq.com/s/2ZyFRsnK5dKWy-Uy6TzhVg)
+
 MDN, [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 Amos, [5个JavaScript编码规范，你喜欢哪一个？](http://mp.weixin.qq.com/s/YqEDqdd21enTsOmrCO52kA)
@@ -15,6 +19,12 @@ yuche, [Airbnb JavaScript Style Guide](https://github.com/yuche/javascript/blob/
 JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript/blob/master/react/README.md)
 
 ---
+
+code4fun, [红黑树详细分析，看了都说好](https://mp.weixin.qq.com/s/pvfA9ozQD_N09EZd2Vbs8w)
+
+SangSir, [19 个常用的 JavaScript 简写方法](https://mp.weixin.qq.com/s/xpMVl_OJYPWGxbQTCe9cQg)
+
+董文博, [Ant Design 色板生成算法演进之路](https://blog.ymfe.org/ant-design-palettes/)
 
 jawil, [JavaScript 优雅的实现方式包含你可能不知道的知识点](https://github.com/jawil/blog/issues/30)
 
