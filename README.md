@@ -43,7 +43,7 @@ zzzaquarius, [How browsers work](http://blog.csdn.net/zzzaquarius/article/detail
 Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http://www.zcfy.cc/article/inside-a-super-fast-css-engine-quantum-css-aka-stylo-x2605-mozilla-hacks-8211-the-web-developer-blog-4041.html?t=new)
 
 ---
-### 样式
+### 外貌
 
 yoyo, [极速适配 iPhone X 秘笈](https://isux.tencent.com/articles/isux-h5-in-iphone.html)
 
