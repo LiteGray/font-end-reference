@@ -34,6 +34,8 @@ Chalarangelo, [精心收集的 48 个 JavaScript 代码片段](http://mp.weixin.
 ---
 ### 浏览
 
+Tali Garsiel, [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+
 冬萌, [无线性能优化：Composite](http://taobaofed.org/blog/2016/04/25/performance-composite/?from=singlemessage)
 
 coverguo, [浏览器进程？线程？傻傻分不清楚！](http://imweb.io/topic/58e3bfa845e5c13468f567d5)
