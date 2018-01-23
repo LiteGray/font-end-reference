@@ -68,8 +68,6 @@ AllThingsSmitty, [css-protips](https://github.com/AllThingsSmitty/css-protips/bl
 
 GuZhi, [Lodash 源码中的那些迷人的细节](https://qianduan.group/posts/5a58d2050cf6b624d2239c44)
 
-董文博, [Ant Design 色板生成算法演进之路](https://blog.ymfe.org/ant-design-palettes/)
-
 岚中浮客, [再也不学AJAX了！（二）使用AJAX](https://segmentfault.com/a/1190000012237477)
 
 人人网FED, [前端本地文件操作与上传](https://juejin.im/post/5a193b4bf265da43052e528a)
