@@ -34,6 +34,8 @@ Chalarangelo, [精心收集的 48 个 JavaScript 代码片段](http://mp.weixin.
 ---
 ### 浏览
 
+寸志, [Google Chrome 中的高性能网络](https://qianduan.group/posts/5a0af34941a4410ebdd6df2f)
+
 Tali Garsiel, [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
 冬萌, [无线性能优化：Composite](http://taobaofed.org/blog/2016/04/25/performance-composite/?from=singlemessage)
@@ -63,6 +65,8 @@ AllThingsSmitty, [css-protips](https://github.com/AllThingsSmitty/css-protips/bl
 
 ---
 ### 点滴
+
+GuZhi, [Lodash 源码中的那些迷人的细节](https://qianduan.group/posts/5a58d2050cf6b624d2239c44)
 
 董文博, [Ant Design 色板生成算法演进之路](https://blog.ymfe.org/ant-design-palettes/)
 
@@ -100,6 +104,8 @@ Scott Chacon... [Pro Git](https://git-scm.com/book/zh/v2)
 
 ---
 ### 其她
+
+GuZhou, [HTTPS 的故事](https://qianduan.group/posts/5a6560b00cf6b624d2239c6f)
 
 阮一峰, [互联网协议入门（一）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
 
