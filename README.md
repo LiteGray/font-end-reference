@@ -49,6 +49,8 @@ Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http
 ---
 ### 外貌
 
+大漠, [理解Flexbox：你需要知道的一切](https://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html)
+
 Chris House, [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/#prop-grid-column-row)
 
 TAT.rocket, [总结伪类与伪元素](http://www.alloyteam.com/2016/05/summary-of-pseudo-classes-and-pseudo-elements/)
