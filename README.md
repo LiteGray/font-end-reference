@@ -34,6 +34,8 @@ Chalarangelo, [精心收集的 48 个 JavaScript 代码片段](http://mp.weixin.
 ---
 ### 浏览
 
+会编程的银猪, [我知道的HTTP请求](https://fed.renren.com/2018/02/03/http-request/)
+
 寸志, [Google Chrome 中的高性能网络](https://qianduan.group/posts/5a0af34941a4410ebdd6df2f)
 
 Tali Garsiel, [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
@@ -48,6 +50,8 @@ Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http
 
 ---
 ### 外貌
+
+缪斯的情人, [现代 CSS 进化史](https://segmentfault.com/a/1190000013191860)
 
 大漠, [理解Flexbox：你需要知道的一切](https://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html)
 
@@ -81,6 +85,13 @@ GuZhi, [Lodash 源码中的那些迷人的细节](https://qianduan.group/posts/5
 MDN, [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 MDN, [闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
+
+---
+### 扩展
+
+Tw93, [写给前端看的 iOS 梳理 (上)](http://tw93.com/2018-02-07/ios-1.html)
+
+白吟灵, [了解NodeJS看这一篇就够了](https://segmentfault.com/a/1190000013241874)
 
 ---
 ### 框架
