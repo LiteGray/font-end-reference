@@ -23,32 +23,6 @@ myvin, [JavaScript 疲劳终极指南：我们行业的真相](http://www.zcfy.c
 miaoyu, [2017 JS开发指南](http://www.zcfy.cc/article/a-map-to-modern-javascript-development-2017-hacker-noon-3696.html)
 
 ---
-### 实践
-
-SangSir, [19 个 JavaScript 有用的简写技术](https://segmentfault.com/a/1190000012673854)
-
-jawil, [JavaScript 优雅的实现方式包含你可能不知道的知识点](https://github.com/jawil/blog/issues/30)
-
-Chalarangelo, [精心收集的 48 个 JavaScript 代码片段](http://mp.weixin.qq.com/s/XpTdSYuECq3lV8BOCcJqFA)
-
----
-### 浏览
-
-会编程的银猪, [我知道的HTTP请求](https://fed.renren.com/2018/02/03/http-request/)
-
-寸志, [Google Chrome 中的高性能网络](https://qianduan.group/posts/5a0af34941a4410ebdd6df2f)
-
-Tali Garsiel, [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
-
-冬萌, [无线性能优化：Composite](http://taobaofed.org/blog/2016/04/25/performance-composite/?from=singlemessage)
-
-coverguo, [浏览器进程？线程？傻傻分不清楚！](http://imweb.io/topic/58e3bfa845e5c13468f567d5)
-
-zzzaquarius, [How browsers work](http://blog.csdn.net/zzzaquarius/article/details/6532299)
-
-Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http://www.zcfy.cc/article/inside-a-super-fast-css-engine-quantum-css-aka-stylo-x2605-mozilla-hacks-8211-the-web-developer-blog-4041.html?t=new)
-
----
 ### 外貌
 
 缪斯的情人, [现代 CSS 进化史](https://segmentfault.com/a/1190000013191860)
@@ -74,7 +48,18 @@ dainiel, [上一年十大CSS文章 (2017版)](http://www.zcfy.cc/article/css-top
 AllThingsSmitty, [css-protips](https://github.com/AllThingsSmitty/css-protips/blob/master/translations/zh-CN/README.md)
 
 ---
+### 实践
+
+SangSir, [19 个 JavaScript 有用的简写技术](https://segmentfault.com/a/1190000012673854)
+
+jawil, [JavaScript 优雅的实现方式包含你可能不知道的知识点](https://github.com/jawil/blog/issues/30)
+
+Chalarangelo, [精心收集的 48 个 JavaScript 代码片段](http://mp.weixin.qq.com/s/XpTdSYuECq3lV8BOCcJqFA)
+
+---
 ### 点滴
+
+link, [玩转JavaScript正则表达式](http://imweb.io/topic/56e804ef1a5f05dc50643106)
 
 GuZhi, [Lodash 源码中的那些迷人的细节](https://qianduan.group/posts/5a58d2050cf6b624d2239c44)
 
@@ -87,11 +72,21 @@ MDN, [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.o
 MDN, [闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
 
 ---
-### 扩展
+### 浏览
 
-Tw93, [写给前端看的 iOS 梳理 (上)](http://tw93.com/2018-02-07/ios-1.html)
+会编程的银猪, [我知道的HTTP请求](https://fed.renren.com/2018/02/03/http-request/)
 
-白吟灵, [了解NodeJS看这一篇就够了](https://segmentfault.com/a/1190000013241874)
+寸志, [Google Chrome 中的高性能网络](https://qianduan.group/posts/5a0af34941a4410ebdd6df2f)
+
+Tali Garsiel, [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+
+冬萌, [无线性能优化：Composite](http://taobaofed.org/blog/2016/04/25/performance-composite/?from=singlemessage)
+
+coverguo, [浏览器进程？线程？傻傻分不清楚！](http://imweb.io/topic/58e3bfa845e5c13468f567d5)
+
+zzzaquarius, [How browsers work](http://blog.csdn.net/zzzaquarius/article/details/6532299)
+
+Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http://www.zcfy.cc/article/inside-a-super-fast-css-engine-quantum-css-aka-stylo-x2605-mozilla-hacks-8211-the-web-developer-blog-4041.html?t=new)
 
 ---
 ### 框架
@@ -119,6 +114,10 @@ Scott Chacon... [Pro Git](https://git-scm.com/book/zh/v2)
 
 ---
 ### 其她
+
+Tw93, [写给前端看的 iOS 梳理 (上)](http://tw93.com/2018-02-07/ios-1.html)
+
+白吟灵, [了解NodeJS看这一篇就够了](https://segmentfault.com/a/1190000013241874)
 
 GuZhou, [HTTPS 的故事](https://qianduan.group/posts/5a6560b00cf6b624d2239c6f)
 
