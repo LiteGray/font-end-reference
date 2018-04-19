@@ -10,6 +10,8 @@ JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript
 ---
 ### 玄学
 
+myvin, [不会写 JavaScript 的人是否还有价值？](https://www.zcfy.cc/article/is-there-any-value-in-people-who-cannot-write-javascript-4267.html?t=new)
+
 边城, [前后端分离实践有感](https://my.oschina.net/jamesfancy/blog/1604237)
 
 doodlewind, [跨界！如何用语文知识改善代码可读性](https://juejin.im/post/5a1fcd8f518825592c07e326)
