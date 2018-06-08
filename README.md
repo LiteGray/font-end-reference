@@ -27,6 +27,8 @@ miaoyu, [2017 JS开发指南](http://www.zcfy.cc/article/a-map-to-modern-javascr
 ---
 ### 外貌
 
+蔡剑涛, [06期：前端布局基础概述](https://mp.weixin.qq.com/s/-LcNZWFFty2lWuND6uuNNA)
+
 缪斯的情人, [现代 CSS 进化史](https://segmentfault.com/a/1190000013191860)
 
 大漠, [理解Flexbox：你需要知道的一切](https://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html)
@@ -61,6 +63,8 @@ Chalarangelo, [精心收集的 48 个 JavaScript 代码片段](http://mp.weixin.
 ---
 ### 点滴
 
+棕小渐, [解锁多种JavaScript数组去重姿势](https://juejin.im/post/5b0284ac51882542ad774c45)
+
 link, [玩转JavaScript正则表达式](http://imweb.io/topic/56e804ef1a5f05dc50643106)
 
 GuZhi, [Lodash 源码中的那些迷人的细节](https://qianduan.group/posts/5a58d2050cf6b624d2239c44)
@@ -93,6 +97,8 @@ Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http
 ---
 ### 框架
 
+sea_ljf, [现代 js 框架存在的根本原因](https://zcfy.cc/article/the-deepest-reason-why-modern-javascript-frameworks-exist)
+
 大漠, [2017 年学习 React + Redux 的一些建议](https://www.w3cplus.com/react/tips-to-learn-react-redux.html)
 
 eJayYoung, [React Router v4 版本 完全指北](http://zcfy.cc/article/react-router-v4-the-complete-guide-mdash-sitepoint-4448.html?t=new)
@@ -116,6 +122,8 @@ Scott Chacon... [Pro Git](https://git-scm.com/book/zh/v2)
 
 ---
 ### 其她
+
+码农翻身, [什么是好代码？](https://mp.weixin.qq.com/s/uHcZA_0wvGrRQ3crS90vdw)
 
 Tw93, [写给前端看的 iOS 梳理 (上)](http://tw93.com/2018-02-07/ios-1.html)
 
