@@ -80,6 +80,10 @@ MDN, [闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
 ---
 ### 浏览
 
+华哥_, [http2.0 --速度与激情](https://my.oschina.net/u/861562/blog/1823472?origin=wechat)
+
+陈皓, [浏览器的渲染原理简介](https://coolshell.cn/articles/9666.html)
+
 会编程的银猪, [我知道的HTTP请求](https://fed.renren.com/2018/02/03/http-request/)
 
 寸志, [Google Chrome 中的高性能网络](https://qianduan.group/posts/5a0af34941a4410ebdd6df2f)
