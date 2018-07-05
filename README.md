@@ -63,6 +63,8 @@ Chalarangelo, [精心收集的 48 个 JavaScript 代码片段](http://mp.weixin.
 ---
 ### 点滴
 
+大转转FE, [跨域的那些事儿](https://zhuanlan.zhihu.com/p/28562290)
+
 棕小渐, [解锁多种JavaScript数组去重姿势](https://juejin.im/post/5b0284ac51882542ad774c45)
 
 link, [玩转JavaScript正则表达式](http://imweb.io/topic/56e804ef1a5f05dc50643106)
