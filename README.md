@@ -82,11 +82,7 @@ MDN, [闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
 ---
 ### 浏览
 
-华哥_, [http2.0 --速度与激情](https://my.oschina.net/u/861562/blog/1823472?origin=wechat)
-
 陈皓, [浏览器的渲染原理简介](https://coolshell.cn/articles/9666.html)
-
-会编程的银猪, [我知道的HTTP请求](https://fed.renren.com/2018/02/03/http-request/)
 
 寸志, [Google Chrome 中的高性能网络](https://qianduan.group/posts/5a0af34941a4410ebdd6df2f)
 
@@ -99,6 +95,21 @@ coverguo, [浏览器进程？线程？傻傻分不清楚！](http://imweb.io/top
 zzzaquarius, [How browsers work](http://blog.csdn.net/zzzaquarius/article/details/6532299)
 
 Mactavish, [深入了解一个超快的 CSS 引擎: Quantum CSS（Stylo）](http://www.zcfy.cc/article/inside-a-super-fast-css-engine-quantum-css-aka-stylo-x2605-mozilla-hacks-8211-the-web-developer-blog-4041.html?t=new)
+
+---
+### 网络
+
+jawil, [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
+
+华哥_, [http2.0 --速度与激情](https://my.oschina.net/u/861562/blog/1823472?origin=wechat)
+
+会编程的银猪, [我知道的HTTP请求](https://fed.renren.com/2018/02/03/http-request/)
+
+GuZhou, [HTTPS 的故事](https://qianduan.group/posts/5a6560b00cf6b624d2239c6f)
+
+阮一峰, [互联网协议入门（一）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
+
+skyline75489, [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN/blob/master/README.rst)
 
 ---
 ### 框架
@@ -134,12 +145,6 @@ Scott Chacon... [Pro Git](https://git-scm.com/book/zh/v2)
 Tw93, [写给前端看的 iOS 梳理 (上)](http://tw93.com/2018-02-07/ios-1.html)
 
 白吟灵, [了解NodeJS看这一篇就够了](https://segmentfault.com/a/1190000013241874)
-
-GuZhou, [HTTPS 的故事](https://qianduan.group/posts/5a6560b00cf6b624d2239c6f)
-
-阮一峰, [互联网协议入门（一）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
-
-skyline75489, [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN/blob/master/README.rst)
 
 ---
 ### 面试
