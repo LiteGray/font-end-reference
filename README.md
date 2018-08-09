@@ -27,6 +27,8 @@ miaoyu, [2017 JS开发指南](http://www.zcfy.cc/article/a-map-to-modern-javascr
 ---
 ### 外貌
 
+江志耿, [用CSS画小猪佩奇，你就是下一个社会人！](https://cloud.tencent.com/developer/article/1128472?fromSource=waitui)
+
 蔡剑涛, [06期：前端布局基础概述](https://mp.weixin.qq.com/s/-LcNZWFFty2lWuND6uuNNA)
 
 缪斯的情人, [现代 CSS 进化史](https://segmentfault.com/a/1190000013191860)
