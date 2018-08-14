@@ -10,6 +10,8 @@ JasonBoy, [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript
 ---
 ### 玄学
 
+Fundebug, [2018年你需要知道的13个JavaScript工具库](https://blog.fundebug.com/2018/07/02/11-js-utility-you-should-know-in-2018/)
+
 myvin, [不会写 JavaScript 的人是否还有价值？](https://www.zcfy.cc/article/is-there-any-value-in-people-who-cannot-write-javascript-4267.html?t=new)
 
 边城, [前后端分离实践有感](https://my.oschina.net/jamesfancy/blog/1604237)
