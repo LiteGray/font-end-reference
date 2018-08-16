@@ -144,6 +144,8 @@ Scott Chacon... [Pro Git](https://git-scm.com/book/zh/v2)
 ---
 ### 其她
 
+王垠, [编程的智慧](http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy)
+
 码农翻身, [什么是好代码？](https://mp.weixin.qq.com/s/uHcZA_0wvGrRQ3crS90vdw)
 
 Tw93, [写给前端看的 iOS 梳理 (上)](http://tw93.com/2018-02-07/ios-1.html)
