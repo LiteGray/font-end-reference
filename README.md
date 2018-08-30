@@ -144,6 +144,8 @@ Scott Chacon... [Pro Git](https://git-scm.com/book/zh/v2)
 ---
 ### 其她
 
+吴浩麟, [WebAssembly 现状与实战](https://www.ibm.com/developerworks/cn/web/wa-lo-webassembly-status-and-reality/index.html)
+
 王垠, [编程的智慧](http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy)
 
 码农翻身, [什么是好代码？](https://mp.weixin.qq.com/s/uHcZA_0wvGrRQ3crS90vdw)
