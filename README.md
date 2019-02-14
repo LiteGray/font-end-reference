@@ -131,6 +131,8 @@ youngwind, [单页面应用路由实现原理：以 React-Router 为例](https:/
 ---
 ### 工具
 
+wallstreetcn, [Webpack 4 和单页应用入门](https://github.com/wallstreetcn/webpack-and-spa-guide)
+
 陈三, [webpack 教程](https://blog.zfanw.com/webpack-tutorial/)
 
 赵达, [Webpack 中文指南](http://zhaoda.net/webpack-handbook/index.html)
