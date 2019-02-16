@@ -122,7 +122,7 @@ sea_ljf, [现代 js 框架存在的根本原因](https://zcfy.cc/article/the-dee
 
 大漠, [2017 年学习 React + Redux 的一些建议](https://www.w3cplus.com/react/tips-to-learn-react-redux.html)
 
-eJayYoung, [React Router v4 版本 完全指北](http://zcfy.cc/article/react-router-v4-the-complete-guide-mdash-sitepoint-4448.html?t=new)
+eJayYoung, [React Router v4 版本 完全指北](https://www.zcfy.cc/article/react-router-v4-the-complete-guide-mdash-sitepoint)
 
 youngwind, [单页面应用路由实现原理：以 React-Router 为例](https://github.com/youngwind/blog/issues/109)
 
