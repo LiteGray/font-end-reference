@@ -118,6 +118,8 @@ skyline75489, [what-happens-when-zh_CN](https://github.com/skyline75489/what-hap
 ---
 ### 框架
 
+Leon Zhang, [Vue 响应式原理白话版](https://www.njleonzhang.com/2018/09/26/vue-reactive.html)
+
 sea_ljf, [现代 js 框架存在的根本原因](https://zcfy.cc/article/the-deepest-reason-why-modern-javascript-frameworks-exist)
 
 大漠, [2017 年学习 React + Redux 的一些建议](https://www.w3cplus.com/react/tips-to-learn-react-redux.html)
